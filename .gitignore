@@ -1,4 +1,5 @@
-/.idea/
+/deeplearning/analysis/.ipynb_checkpoints/
+.idea/
 /deeplearning/.idea/
 /deeplearning/analysis/data/json/
 /deeplearning/main/wandb/
